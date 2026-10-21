@@ -14,21 +14,67 @@
 </li>
 
 ### 🐍 Язык и основные фреймворки
-<li>
-  <img src="icon/python.svg" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
-  <span style="vertical-align: middle;"> - Python</span>
-</li>
-<li>
-  <img src="icon/pytest.svg" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
+<table align="left" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <!-- Столбец 1: Python -->
+    <td align="center" style="border: none; padding: 0 20px;">
+      <img src="icon/python.svg" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
+      <span style="vertical-align: middle;"> - Python</span>
+      </a>
+    </td>
+    <!-- Столбец 2: Pytest -->
+    <td align="center" style="border: none; padding: 0 20px;">
+      <img src="icon/pytest.png" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
   <span style="vertical-align: middle;"> - Pytest</span>
-</li>
-<li>
-  <img src="icon/selenium.svg" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
-  <span style="vertical-align: middle;"> - Selenium</span>
-</li>
-
+      </a>
+    </td>
+    <!-- Столбец 3: Selenium -->
+    <td align="center" style="border: none; padding: 0 20px;">
+      <img src="icon/selenium.png" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
+      <span style="vertical-align: middle;"> - Selenium</span>
+      </a>
+    </td>
+    <!-- Столбец 4: Pydantic -->
+    <td align="center" style="border: none; padding: 0 20px;">
+      <img src="icon/pydantic.png" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
+    <span style="vertical-align: middle;"> - Pydantic</span>
+      </a>
+    </td>
+  </tr>
+</table>
+<br>
+</br>
 
 ### 📡 Тестирование API и проверка данных
+<table align="left" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <!-- Столбец 1: Requests -->
+    <td align="center" style="border: none; padding: 0 20px;">
+      <img src="icon/Requests.svg" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
+      <span style="vertical-align: middle;"> - Python</span>
+      </a>
+    </td>
+    <!-- Столбец 2: Pytest -->
+    <td align="center" style="border: none; padding: 0 20px;">
+      <img src="icon/pytest.png" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
+  <span style="vertical-align: middle;"> - Pytest</span>
+      </a>
+    </td>
+    <!-- Столбец 3: Selenium -->
+    <td align="center" style="border: none; padding: 0 20px;">
+      <img src="icon/selenium.png" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
+      <span style="vertical-align: middle;"> - Selenium</span>
+      </a>
+    </td>
+    <!-- Столбец 4: Pydantic -->
+    <td align="center" style="border: none; padding: 0 20px;">
+      <img src="icon/pydantic.png" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
+    <span style="vertical-align: middle;"> - Pydantic</span>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ![Requests](https://shields.io)
 ![Pydantic](https://shields.io)
 ![Postman](https://shields.io)

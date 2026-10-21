@@ -1,19 +1,14 @@
-## Hi there 👋
+<td align="center" style="border: none; padding: 0 20px;">
+     <img src="icon/banner2jpg.jpg" alt="banner" style="width: 100%; height: auto; display: block; vertical-align: middle; margin-right: 5px;"/>
+</td>
 
-<li>
-  <img src="icon/github-icon.svg" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
-  <span style="vertical-align: middle;"> - GitHub</span>
-</li>
-<li>
-  <img src="icon/postgresql.png" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
-  <span style="vertical-align: middle;"> - postgresql </span>
-</li>
-<li>
-  <img src="icon/devtools.png" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
-  <span style="vertical-align: middle;"> - devtools </span>
-</li>
-
-### 🐍 Язык и основные фреймворки
+# Здравствуйте! Меня зовут Сергей. 👋
+### Junior QA Automation Engineer (Python) 🚀
+## О себе:
+🔭 Я — тестировщик, провожу ручное и автоматизированное тестирование на Python.
+📚 Постоянно изучаю новые технологии, методы и инструменты, связанные с тестированием, чтобы быть в курсе последних тенденций и применять их на практике. В свободное время читаю книги для повышения уровня знаний.
+🌱 Сейчас изучаю: CI/CD (GitHub Actions, Docker) и Playwright
+## 🛠️ Мой стек автоматизации
 <table align="left" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <!-- Столбец 1: Python -->
@@ -34,56 +29,42 @@
       <span style="vertical-align: middle;"> - Selenium</span>
       </a>
     </td>
-    <!-- Столбец 4: Pydantic -->
+   <!-- Столбец 4: Postgresql -->
     <td align="center" style="border: none; padding: 0 20px;">
-      <img src="icon/pydantic.png" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
-    <span style="vertical-align: middle;"> - Pydantic</span>
+      <img src="icon/postgresql.png" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
+    <span style="vertical-align: middle;"> - Postgresql</span>
       </a>
     </td>
-  </tr>
+   <!-- Столбец 5: Postman -->
+    <td align="center" style="border: none; padding: 0 20px;">
+      <img src="icon/postman.svg" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
+  <span style="vertical-align: middle;"> - Postman</span>
+      </a>
+    </td>
+   <!-- Столбец 6: Git -->
+    <td align="center" style="border: none; padding: 0 20px;">
+      <img src="icon/github-icon.svg" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
+      <span style="vertical-align: middle;"> - Git</span>
+      </a>
+    </td>
+   </tr>
 </table>
 <br>
 </br>
 
-### 📡 Тестирование API и проверка данных
-<table align="left" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <!-- Столбец 1: Requests -->
-    <td align="center" style="border: none; padding: 0 20px;">
-      <img src="icon/Requests.svg" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
-      <span style="vertical-align: middle;"> - Python</span>
-      </a>
-    </td>
-    <!-- Столбец 2: Pytest -->
-    <td align="center" style="border: none; padding: 0 20px;">
-      <img src="icon/pytest.png" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
-  <span style="vertical-align: middle;"> - Pytest</span>
-      </a>
-    </td>
-    <!-- Столбец 3: Selenium -->
-    <td align="center" style="border: none; padding: 0 20px;">
-      <img src="icon/selenium.png" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
-      <span style="vertical-align: middle;"> - Selenium</span>
-      </a>
-    </td>
-    <!-- Столбец 4: Pydantic -->
-    <td align="center" style="border: none; padding: 0 20px;">
-      <img src="icon/pydantic.png" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
-    <span style="vertical-align: middle;"> - Pydantic</span>
-      </a>
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Stats
+<!-- Блоки автоматической статистики кода (генерируются сами) -->
+![](https://vercel.app)
+![](https://vercel.app)
 
-![Requests](https://shields.io)
-![Pydantic](https://shields.io)
-![Postman](https://shields.io)
+## 📂 Основные фреймворки автоматизации (примеры)
+* **[Web-UI-Automation-Pytest](ссылка):** Фреймворк для UI-тестирования интернет-магазина. Использует **Python + Pytest + Selenium**. Реализован паттерн Page Object Model (POM), настроена генерация красивых отчетов **Allure Report**.
+* **[API-Testing-Framework](ссылка):** Автоматизация тестирования REST API с использованием библиотеки `requests` и валидацией JSON-схем через `pydantic`.
 
-### 📊 CI/CD, инфраструктура и отчетность
-![Git](https://shields.io)
-![GitHub Actions](https://shields.io)
-![Allure](https://shields.io)
-
+##  💬 Связь со мной: 
+*   Telegram: https://t.me\G_Sergey_V13].
+*   LinkedIn: [ссылка].
+*   Почта: serfre@mail.ru
 
 
 

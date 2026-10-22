@@ -77,6 +77,7 @@
     
 ##  💬 Связь со мной: 
 *   Telegram: https://t.me\G_Sergey_V13].
+*   MAX:  <img src="icon/MAX.png" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="MAX"/>
 *   LinkedIn: [ссылка].
 *   Почта: serfre@mail.ru
   

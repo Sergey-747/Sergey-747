@@ -72,6 +72,7 @@
 *   Telegram: https://t.me\G_Sergey_V13].
 *   LinkedIn: [ссылка].
 *   Почта: serfre@mail.ru
+*   ![Selenium](https://img.shields.io/badge/selenium-3670A0?style=for-the-badge&logo= selenium &logoColor=ffdd54)
 
 
 

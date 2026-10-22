@@ -9,6 +9,13 @@
 📚 Постоянно изучаю новые технологии, методы и инструменты, связанные с тестированием, чтобы быть в курсе последних тенденций и применять их на практике. В свободное время читаю книги для повышения уровня знаний.
 🌱 Сейчас изучаю: CI/CD (GitHub Actions, Docker) и Playwright
 ## 🛠️ Мой стек автоматизации
+![Selenium](https://img.shields.io/badge/selenium-3670A0?style=for-the-badge&logo=selenium&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pytest](https://img.shields.io/badge/pytest-3670A0?style=for-the-badge&logo=pytest&logoColor=ffdd54)
+![Postgresql](https://img.shields.io/badge/postgresql-3670A0?style=for-the-badge&logo=postgresql&logoColor=ffdd54)
+![Postman](https://img.shields.io/badge/postman-3670A0?style=for-the-badge&logo=postman&logoColor=ffdd54)
+![GitHub](https://img.shields.io/badge/github-3670A0?style=for-the-badge&logo=github&logoColor=ffdd54)
+
 <table align="left" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <!-- Столбец 1: Python -->
@@ -72,7 +79,9 @@
 *   Telegram: https://t.me\G_Sergey_V13].
 *   LinkedIn: [ссылка].
 *   Почта: serfre@mail.ru
-*   ![Selenium](https://img.shields.io/badge/selenium-3670A0?style=for-the-badge&logo= selenium &logoColor=ffdd54)
+  
+
+
 
 
 

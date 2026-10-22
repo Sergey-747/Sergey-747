@@ -13,31 +13,31 @@
   <tr style="border: none;">
     <!-- Столбец 1: Python -->
     <td align="center" style="border: none; padding: 0 20px;">
-      <img src="icon/python.svg" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
+      <img src="icon/python.svg" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="Python"/>
       <span style="vertical-align: middle;"> - Python</span>
       </a>
     </td>
     <!-- Столбец 2: Pytest -->
     <td align="center" style="border: none; padding: 0 20px;">
-      <img src="icon/pytest.png" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
+      <img src="icon/pytest.png" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="Pytest"/>
   <span style="vertical-align: middle;"> - Pytest</span>
       </a>
     </td>
     <!-- Столбец 3: Selenium -->
     <td align="center" style="border: none; padding: 0 20px;">
-      <img src="icon/selenium.png" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
+      <img src="icon/selenium.png" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="Selenium"/>
       <span style="vertical-align: middle;"> - Selenium</span>
       </a>
     </td>
    <!-- Столбец 4: Postgresql -->
     <td align="center" style="border: none; padding: 0 20px;">
-      <img src="icon/postgresql.png" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
+      <img src="icon/postgresql.png" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="Postgresql"/>
     <span style="vertical-align: middle;"> - Postgresql</span>
       </a>
     </td>
    <!-- Столбец 5: Postman -->
     <td align="center" style="border: none; padding: 0 20px;">
-      <img src="icon/postman.svg" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="GitHub"/>
+      <img src="icon/postman.svg" width="24" height="24" style="vertical-align: middle; margin-right: 5px;" alt="Postman"/>
   <span style="vertical-align: middle;"> - Postman</span>
       </a>
     </td>
